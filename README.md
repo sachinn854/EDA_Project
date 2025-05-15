@@ -62,6 +62,5 @@ Feel free to raise issues or pull requests for improvements!
 
 📬 Contact
 Sachin Kumar Yadav
-Email: sachinn854@gmail.com
 GitHub: @sachinn854
 
