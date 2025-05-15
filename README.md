@@ -46,6 +46,15 @@ EDA_Project/
    git clone https://github.com/sachinn854/EDA_Project.git
    cd EDA_Project
 
+Install Required Libraries
+
+pip install -r requirements.txt
+Open Jupyter Notebook
+
+jupyter notebook
+Run the notebooks inside the notebooks/ folder to see the analysis.
+
+
 📌 Use Case
 This EDA project can help businesses or analysts:
 
@@ -62,5 +71,6 @@ Feel free to raise issues or pull requests for improvements!
 
 📬 Contact
 Sachin Kumar Yadav
+Email: syy63052@gmail.com
 GitHub: @sachinn854
 
